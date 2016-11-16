@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Kanit:200|Poiret+One');
+/* 
+*  Usage of font's:
+*  font-family: 'Poiret One', cursive;       font-weight: 400;
+*  font-family: 'Josefin Sans', sans-serif;  font-weight: 400;
+*  font-family: 'Kanit', sans-serif;         font-weight: 200;
+*/
